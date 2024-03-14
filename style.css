@@ -1,0 +1,53 @@
+#container{
+    border: solid;
+    padding: 50px;
+}
+
+
+#navbar{
+    display: flex;
+    justify-content: space-between;
+}
+#text1{
+    font-size: 200%;
+}
+#image1{
+    text-align: center;
+}
+#manner{
+    display: flex;
+    justify-content: space-between;
+}
+#measure{
+    text-align: center;
+}
+#text2{
+    
+}
+#word{
+    text-align: center;
+    display: flex;
+
+}
+#image5{
+    display: flex;
+    justify-content: space-between;
+}
+#image6{
+    display: flex;
+    justify-content: space-between;
+}
+#text9{
+text-align: center;
+}
+#collection{
+    text-align: center;
+    font-size: 300%;
+}
+#collector{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
